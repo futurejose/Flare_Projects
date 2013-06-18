@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultIndexLinkSet
+  conditions="">
+  <IndexLink
+    Term="Quote"
+    LinkType="see"
+    LinkedTerm="Blockquote"></IndexLink>
+  <IndexLink
+    Term="Picture"
+    LinkType="see"
+    LinkedTerm="Image"></IndexLink>
+</CatapultIndexLinkSet>
